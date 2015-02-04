@@ -2,7 +2,8 @@ fork my repo to yourself
 copy the url of your clone from github
 git clone <your repo link> to clone your repo to your local machine
 make a new branch on which to work: git checkout -b questionnaire
-make a directory to work with mkdir edav/lab/questionnaire
+
+
 cd to it cd edav/lab/questionnaire
 create a file -- either in Rstudio or another editor, or touch
 git add <filename> to stage the new file for a commit
