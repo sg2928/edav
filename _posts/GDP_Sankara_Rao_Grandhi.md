@@ -41,7 +41,7 @@ mapCountryData(spdf, mapTitle='YR2000', nameColumnToPlot="value", catMethod="fix
 ```
 Year 2000 GDP Growth Chart
 ============================
-![](GDP\YR2000.png)
+![]({{ site.baseurl }}/assets/YR2000.png)
 
 Year 2001 GDP Growth Chart
 ============================
